@@ -1,11 +1,12 @@
 {
-    "name": "TreliaGT/laravel-friendships",
-    "description": "This package gives Eloquent models the ability to manage their friendships. forged from https://github.com/hootlex/laravel-friendships",
+    "name": "hootlex/laravel-friendships",
+    "description": "This package gives Eloquent models the ability to manage their friendships.",
     "keywords": ["laravel", "friendships", "friend-system", "friends", "eloquent"],
     "license": "MIT",
     "authors": [
         {
-            "name": "TreliaGT"
+            "name": "Hootlex",
+            "email": "hootlex@icloud.com"
         }
     ],
     "autoload-dev": {
